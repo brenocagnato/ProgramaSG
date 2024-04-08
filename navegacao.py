@@ -1,3 +1,5 @@
+# Version 1.1.0
+
 # Constantes para as opções do menu principal
 gerenciar_estudantes = 1
 gerenciar_professores = 2
